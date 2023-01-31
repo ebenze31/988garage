@@ -79,9 +79,7 @@
                 <div class="title m-b-md">
                     <img src="{{ asset('/img/logo/510200.jpg') }}" class="main-shadow" style="border-radius: 50%;width: 40%;">
                 </div>
-                <h2>
-                    <b>988 Garage</b>
-                </h2>
+                <h2><b>988 Garage</b></h2>
                 <p>The website will be ready for service soon.</p>
             </div>
         </div>
