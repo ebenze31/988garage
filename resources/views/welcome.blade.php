@@ -77,7 +77,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="{{ asset('/img/logo/510200.jpg') }}" class="main-shadow" style="border-radius: 50%;width: 20%;">
+                    <img src="{{ asset('/img/logo/510200.jpg') }}" class="main-shadow" style="border-radius: 50%;width: 40%;">
                 </div>
                 <h2><b>988 Garage</b></h2>
                 <p>The website will be ready for service soon.</p>
