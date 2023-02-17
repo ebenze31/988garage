@@ -46,16 +46,19 @@
               <div class="front front-background" style="background-image: url(https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
-                  <h3 class="text-white"><b>988 Garage</b> <br><span style="font-size: 20px;margin-top: -5px;">by AutoGLYM</span></h3>
+                  <h2 class="text-white">
+                    <b>988 Garage</b>
+                    <span style="font-size: 25px;"><br>by AutoGLYM</span>
+                  </h2>
                   <p class="text-white opacity-8">
                     ปั๊ม ปตท. สาขานางลิ้นจี่ ถนนนางลิ้นจี่ ทุ่งมหาเมฆ สาทร กรุงเทพ 10120
                   </p>
-                  <span class="btn btn-white btn-sm w-50 mx-auto mt-3">
-                    ดูแผนที่ &nbsp;&nbsp; <i class="fa-sharp fa-regular fa-map-location-dot"></i>
+                  <span class="btn btn-white w-50 mx-auto mt-3" style="font-size:15px;">
+                    ดูแผนที่ &nbsp;&nbsp; <i class="fa-sharp fa-solid fa-location-dot text-danger"></i>
                   </span>
                 </div>
               </div>
-              <div class="back back-background" style="background-image: url(https://images.unsplash.com/photo-1498889444388-e67ea62c464b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1365&q=80); background-size: cover;">
+              <div id="map" class="back back-background" style="background-size: cover;">
                 <div class="card-body pt-7 text-center">
                   <h3 class="text-white">Discover More</h3>
                   <p class="text-white opacity-8"> You will save a lot of time going from prototyping to full-functional code because all elements are implemented.</p>
@@ -113,4 +116,34 @@
 
 </div>
 
+
+<style>
+  #map {
+      height: calc(40vh);
+    }
+</style>
+
+<!-- Google map api -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHrdKXlaset7m3Na7pMCEj8efChb6qJio&language=th"></script>
+
+<script>
+
+   document.addEventListener('DOMContentLoaded', (event) => {
+      // console.log("START");
+      initMap();
+    });
+
+  function initMap() {
+
+        let m_lat = parseFloat('12.870032');
+        let m_lng = parseFloat('100.992541');
+        let m_numZoom = parseFloat('6');
+        
+        map = new google.maps.Map(document.getElementById("map"), {
+            center: {lat: m_lat, lng: m_lng },
+            zoom: m_numZoom,
+        });
+
+    }
+</script>
 
