@@ -59,14 +59,16 @@
                 </div>
               </div>
               <div id="map" class="back back-background" style="background-size: cover;">
-                <div class="card-body pt-7 text-center">
-                  <h3 class="text-white">Discover More</h3>
-                  <p class="text-white opacity-8"> You will save a lot of time going from prototyping to full-functional code because all elements are implemented.</p>
-                  <a href="#" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">
-                    ดูแผนที่ &nbsp;&nbsp; <i class="fa-sharp fa-regular fa-map-location-dot"></i>
-                  </a>
-                </div>
               </div>
+
+              <!-- <div class="back" style="z-index: 999 !important;">
+                <h3 class="text-white">Discover More</h3>
+                <p class="text-white opacity-8"> You will save a lot of time going from prototyping to full-functional code because all elements are implemented.</p>
+                <a href="#" target="_blank" class="btn btn-white btn-sm w-50 mx-auto mt-3">
+                  ขอเส้นทาง &nbsp;&nbsp; <i class="fa-sharp fa-regular fa-map-location-dot"></i>
+                </a>
+              </div> -->
+              
             </div>
           </div>
         </div>
@@ -117,15 +119,15 @@
 </div>
 
 
-<style>
-  #map {
-      height: calc(40vh);
+<style type="text/css">
+    #map {
+      height: 100%;
     }
+
 </style>
 
 <!-- Google map api -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHrdKXlaset7m3Na7pMCEj8efChb6qJio&language=th"></script>
-
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHrdKXlaset7m3Na7pMCEj8efChb6qJio&callback=initMap&language=th"></script>
 <script>
 
    document.addEventListener('DOMContentLoaded', (event) => {

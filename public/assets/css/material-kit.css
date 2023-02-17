@@ -21234,7 +21234,6 @@ fieldset:disabled .btn {
   flex-direction: column;
 }
 
-.rotating-card-container .card .back:after,
 .rotating-card-container .card .front:after {
   position: absolute;
   z-index: 1;
@@ -21247,6 +21246,18 @@ fieldset:disabled .btn {
   border-radius: 0.5rem;
   background-image: linear-gradient(195deg, #DDB389, #243F50);
   opacity: .85;
+}
+
+.rotating-card-container .card .back:after {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  display: block;
+  left: 0;
+  top: 0;
+  content: "";
+  border-radius: 0.5rem;
 }
 
 .rotating-card-container .card .front {
