@@ -46,7 +46,8 @@
               <div class="front front-background" style="background-image: url(https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
-                  <h3 class="text-white"><b>988 Garage</b> <br>by AutoGLYM</h3>
+                  <h2 class="text-white"><b>988 Garage</b></h2>
+                  <h3 class="text-white"><b>by AutoGLYM</h3>
                   <p class="text-white opacity-8">
                     ปั๊ม ปตท. สาขานางลิ้นจี่ ถนนนางลิ้นจี่ ทุ่งมหาเมฆ สาทร กรุงเทพ 10120
                   </p>
