@@ -17,7 +17,7 @@
         </div>
       </div>
 
-      <div class="row justify-content-center text-center  d-none">
+      <!-- <div class="row justify-content-center text-center  d-none">
         <div class="col-md-3">
           <h1 class="text-gradient text-info" id="state1" countTo="5234">0</h1>
           <h5>Projects</h5>
@@ -33,7 +33,7 @@
           <h5>Support</h5>
           <p>Actively engage team members that finishes on time</p>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </section>
@@ -44,12 +44,12 @@
         <div class="col-lg-4 ms-auto me-auto p-lg-4 mt-lg-0 mt-4">
           <div class="rotating-card-container">
             <div class="card card-rotate card-background card-background-mask-primary shadow-primary mt-md-0 mt-5">
-              <div class="front front-background" style="background-image: url(https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80); background-size: cover;">
+              <div class="front front-background" style="background-image: url(https://www.988garage.com/img/background/car care.jpg); background-size: cover;">
                 <div class="card-body py-7 text-center">
                   <i class="material-icons text-white text-4xl my-3">touch_app</i>
                   <h2 class="text-white">
-                    <b>988 Garage</b>
-                    <span style="font-size: 25px;"><br>by AutoGLYM</span>
+                    <b>988Garage</b>
+                    <span style="font-size: 25px;"><br>AutoGLYM</span>
                   </h2>
                   <p class="text-white opacity-8">
                     ปั๊ม ปตท. สาขานางลิ้นจี่ ถนนนางลิ้นจี่ ทุ่งมหาเมฆ สาทร กรุงเทพ 10120
@@ -94,12 +94,9 @@
                   </div>
                   <div class="card-body text-center">
                     <div class="d-flex mt-n6 mx-auto">
-                      <a href="tel:0956625465" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณอ้อ">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
-                      </a>
-                      <a href="tel:0985194654" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณมิ้นท์">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณมิ้นท์
-                      </a>
+                        <a href="tel:0956625465" style="width:100%;margin-top: 10px;" class="btn btn-info text-white ms-auto border-0" title="โทร : คุณอ้อ" data-bs-toggle="tooltip" data-bs-placement="bottom">
+                          <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
+                        </a>
                     </div>
                   </div>
                 </div>
@@ -115,12 +112,9 @@
                   </div>
                   <div class="card-body text-center">
                     <div class="d-flex mt-n6 mx-auto">
-                      <a href="tel:0956625465" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณอ้อ">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
-                      </a>
-                      <a href="tel:0985194654" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณมิ้นท์">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณมิ้นท์
-                      </a>
+                        <a href="tel:0956625465" style="width:100%;margin-top: 10px;" class="btn btn-info text-white ms-auto border-0" title="โทร : คุณอ้อ" data-bs-toggle="tooltip" data-bs-placement="bottom">
+                          <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
+                        </a>
                     </div>
                   </div>
                 </div>
@@ -136,12 +130,9 @@
                   </div>
                   <div class="card-body text-center">
                     <div class="d-flex mt-n6 mx-auto">
-                      <a href="tel:0956625465" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณอ้อ">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
-                      </a>
-                      <a href="tel:0985194654" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณมิ้นท์">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณมิ้นท์
-                      </a>
+                        <a href="tel:0956625465" style="width:100%;margin-top: 10px;" class="btn btn-info text-white ms-auto border-0" title="โทร : คุณอ้อ" data-bs-toggle="tooltip" data-bs-placement="bottom">
+                          <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
+                        </a>
                     </div>
                   </div>
                 </div>
@@ -157,12 +148,9 @@
                   </div>
                   <div class="card-body text-center">
                     <div class="d-flex mt-n6 mx-auto">
-                      <a href="tel:0956625465" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณอ้อ">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
-                      </a>
-                      <a href="tel:0985194654" class="btn btn-info text-white ms-auto border-0" data-bs-toggle="tooltip" data-bs-placement="bottom" title="โทร : คุณมิ้นท์">
-                        <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณมิ้นท์
-                      </a>
+                        <a href="tel:0956625465" style="width:100%;margin-top: 10px;" class="btn btn-info text-white ms-auto border-0" title="โทร : คุณอ้อ" data-bs-toggle="tooltip" data-bs-placement="bottom">
+                          <i class="fa-duotone fa-phone"></i> &nbsp;&nbsp; คุณอ้อ
+                        </a>
                     </div>
                   </div>
                 </div>
@@ -211,122 +199,60 @@
                 <div class="accordion-body text-dark">
                   <div class="card mt-2 p-4">
                     <!-- ตาราง 1 -->
-                    <div class="row">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-6">
-                        <h5><b>บริการรักษาความสะอาด<u>ภายนอก</u>รถยนต์ ด้วยผลิตภัณฑ์เฉพาะจาก AutoGLYM</b></h5>
-                      </div>
-                      <div class="col-md-1">
-                        <!--  -->
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <h5>S/M</h5>
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <h5>L</h5>
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <h5>XL</h5>
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <h5>XXL</h5>
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <h5>VIP</h5>
-                      </div>
-                      <!-- ------------------------------------------ -->
-                      <hr class="gold-line main-shadow mt-3">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-6">
-                        Premium care 8 ขั้นตอน<br>
-                        ล้างสีรถยนต์ ล้างซุ้มล้อ Wax ขอบพลาสติก Wax ล้อยาง ดูดฝุ่น ดูดพรม เช็ดผ้ายางรองพื้น ทำความสะอาดภายใน
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <!--  -->
-                      </div>
-                      <div class="col-md-1 text-center">
-                        230
-                      </div>
-                      <div class="col-md-1 text-center">
-                        250
-                      </div>
-                      <div class="col-md-1 text-center">
-                        290
-                      </div>
-                      <div class="col-md-1 text-center">
-                        350
-                      </div>
-                      <div class="col-md-1 text-center">
-                        400
-                      </div>
-                      <!-- ------------------------------------------ -->
-                      <hr class="gold-line main-shadow mt-3">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-6">
-                        ล้างสี Premium ดูดฝุ่น เช็ดภายใน
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <!--  -->
-                      </div>
-                      <div class="col-md-1 text-center">
-                        140
-                      </div>
-                      <div class="col-md-1 text-center">
-                        170
-                      </div>
-                      <div class="col-md-1 text-center">
-                        190
-                      </div>
-                      <div class="col-md-1 text-center">
-                        210
-                      </div>
-                      <div class="col-md-1 text-center">
-                        240
-                      </div>
-                      <!-- ------------------------------------------ -->
-                      <hr class="gold-line main-shadow mt-3">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-6">
-                        ดูดฝุ่น เช็ดเบาะ เป่าพรม
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <!--  -->
-                      </div>
-                      <div class="col-md-1 text-center">
-                        140
-                      </div>
-                      <div class="col-md-1 text-center">
-                        170
-                      </div>
-                      <div class="col-md-1 text-center">
-                        190
-                      </div>
-                      <div class="col-md-1 text-center">
-                        210
-                      </div>
-                      <div class="col-md-1 text-center">
-                        240
-                      </div>
-                      <!-- ------------------------------------------ -->
-                      <hr class="gold-line main-shadow mt-3">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-6">
-                        ล้างอัดฉีด (เพิ่ม)
-                      </div>
-                      <div class="col-md-1 text-center">
-                        <!--  -->
-                      </div>
-                      <div class="col-md-5 text-center">
-                        100
-                      </div>
-                      <!-- ------------------------------------------ -->
-                      <hr class="gold-line main-shadow mt-3">
-                      <!-- ------------------------------------------ -->
-                      <div class="col-md-12 text-center">
-                        <b>ระยะเวลาการให้บริการ รบกวนสอบถามกับพนักงาน เพราะบางรายการอาจต้องใช้เวลาเพื่อความสะอาดและสมบูรณ์แบบในการให้บริการ</b>
+                      <div class="table-responsive">
+                        <table class="table table-bordered text-center">
+                          <thead style="background-color: grey;color: #ffffff;">
+                            <tr>
+                              <th class="text-start" scope="col">บริการรักษาความสะอาดภายนอกรถยนต์ ด้วยผลิตภัณฑ์เฉพาะจาก AutoGLYM</th>
+                              <th scope="col">S/M</th>
+                              <th scope="col">L</th>
+                              <th scope="col">XL</th>
+                              <th scope="col">XXL</th>
+                              <th scope="col">VIP</th>
+                            </tr>
+                          </thead>
+                          <tbody class="table table-striped">
+                            <tr>
+                              <th class="text-start" scope="row">
+                                Premium care 8 ขั้นตอน <br>
+                                ล้างสีรถยนต์ ล้างซุ้มล้อ Wax ขอบพลาสติก Wax ล้อยาง ดูดฝุ่น ดูดพรม เช็ดผ้ายางรองพื้น <br>
+                                ทำความสะอาดภายใน
+                                </th>
+                              <td>230</td>
+                              <td>250</td>
+                              <td>290</td>
+                              <td>350</td>
+                              <td>400</td>
+                            </tr>
+                            <tr>
+                              <th class="text-start" scope="row">ล้างสี Premium ดูดฝุ่น เช็ดภายใน</th>
+                              <td>140</td>
+                              <td>170</td>
+                              <td>190</td>
+                              <td>210</td>
+                              <td>240</td>
+                            </tr>
+                            <tr>
+                              <th class="text-start" scope="row">ดูดฝุ่น เช็ดเบาะ เป่าพรม</th>
+                              <td>140</td>
+                              <td>170</td>
+                              <td>190</td>
+                              <td>210</td>
+                              <td>240</td>
+                            </tr>
+                            <tr>
+                              <th class="text-start" scope="row">ดูล้างอัดฉีด (เพิ่ม)</th>
+                              <td colspan="5">100</td>
+                            </tr>
+                            <tr>
+                              <th colspan="6" scope="row">
+                                  ระยะเวลาการให้บริการ รบกวนสอบถามกับพนักงาน เพราะบางรายการอาจต้องใช้เวลาเพื่อความสะอาดและสมบูรณ์แบบในการให้บริการ
+                              </th>
+                            </tr>
+                          </tbody>
+                        </table>
                       </div>
 
-                    </div>
                     </div>
                 </div>
               </div>
@@ -371,13 +297,21 @@
 
   function initMap() {
 
-        let m_lat = parseFloat('12.870032');
-        let m_lng = parseFloat('100.992541');
-        let m_numZoom = parseFloat('6');
+        const image = "{{ url('/img/icon/marker.png') }}" ;
+
+        let m_lat = parseFloat('13.714737');
+        let m_lng = parseFloat('100.5397733');
+        let m_numZoom = parseFloat('16');
         
         map = new google.maps.Map(document.getElementById("map"), {
             center: {lat: m_lat, lng: m_lng },
             zoom: m_numZoom,
+        });
+
+        marker = new google.maps.Marker({
+            position: {lat: parseFloat(m_lat) , lng: parseFloat(m_lng) },
+            map: map,
+            icon: image,
         });
 
     }
