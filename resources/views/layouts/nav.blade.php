@@ -33,17 +33,21 @@
                     <h6 class="dropdown-header text-dark font-weight-bolder d-flex align-items-center px-1">
                       <i class="fa-duotone fa-phone-volume"></i> &nbsp;&nbsp;Phone
                     </h6>
+                    
                     <a href="tel:0956625465" class="dropdown-item border-radius-md">
-                      <span>095 662 5465</span>
+                      <span>095 662 5465  คุณอ้อ</span>
                     </a>
                     <a href="tel:0985194654" class="dropdown-item border-radius-md">
-                      <span>098 519 4654</span>
+                      <span>098 519 4654  คุณมิ้นท์</span>
                     </a>
 
                     <h6 class="dropdown-header text-dark font-weight-bolder d-flex align-items-center px-1 mt-3">
                       Social
                     </h6>
-                    <a href="#" class="dropdown-item border-radius-md">
+                    <a href="mailto:988garage@gmail.com" class="dropdown-item border-radius-md">
+                      <span>G-mail</span>
+                    </a>
+                    <!-- <a href="#" class="dropdown-item border-radius-md">
                       <span>Facebook</span>
                     </a>
                     <a href="#" class="dropdown-item border-radius-md">
@@ -54,7 +58,8 @@
                     </a>
                     <a href="#" class="dropdown-item border-radius-md">
                       <span>TikTok</span>
-                    </a>
+                    </a> -->
+                    
                   </div>
 
                   <div class="d-lg-none">
@@ -63,16 +68,19 @@
                     </h6>
 
                     <a href="tel:0956625465" class="dropdown-item border-radius-md">
-                      <span>095 662 5465</span>
+                      <span>095 662 5465  คุณอ้อ</span>
                     </a>
                     <a href="tel:0985194654" class="dropdown-item border-radius-md">
-                      <span>098 519 4654</span>
+                      <span>098 519 4654  คุณมิ้นท์</span>
                     </a>
 
                     <h6 class="dropdown-header text-dark font-weight-bolder d-flex align-items-center px-1 mt-3">
                       Social
                     </h6>
-                    <a href="#" class="dropdown-item border-radius-md">
+                    <a href="mailto:988garage@gmail.com" class="dropdown-item border-radius-md">
+                      <span>G-mail</span>
+                    </a>
+                    <!-- <a href="#" class="dropdown-item border-radius-md">
                       <span>Facebook</span>
                     </a>
                     <a href="#" class="dropdown-item border-radius-md">
@@ -83,7 +91,7 @@
                     </a>
                     <a href="#" class="dropdown-item border-radius-md">
                       <span>TikTok</span>
-                    </a>
+                    </a> -->
 
                   </div>
 
